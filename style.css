@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+.container {
+  margin-top: 100px;
+  color: antiquewhite;
+}
+
+input,
+textarea {
+  margin-bottom: 14px;
+}
+
+button {
+  margin-top: 10px;
+}
